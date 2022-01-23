@@ -106,8 +106,8 @@ async def start_me(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/Movvie_Hall')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Movvie_Hall'),
-                    InlineKeyboardButton('Source', url='iwillsendknow')
+                    InlineKeyboardButton('Father', url='https://t.me/RJMALLU'),
+                    InlineKeyboardButton('Source', url='https://t.me/iwillsendknow')
                 ]
             ]
         ),
